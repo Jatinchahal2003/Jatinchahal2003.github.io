@@ -35,7 +35,7 @@
     <h2>&nbsp;</h2>
     <div>
         <section id="testimonials">
-			<article class="center"><img src="../images/students/sourabh.png" alt="">
+			<article class="center"><img src="../images/students/" alt="">
 			</article>
 		</section>
     </div>
@@ -50,51 +50,51 @@
         <table style="width:40%">
             <tr>
                 <td>Full Name</td>
-                <td>Sourabh Panchal</td>
+                <td></td>
             </tr>
             <tr>
                 <td>F. Name</td>
-                <td>Mr. Balwinder</td>
+                <td></td>
             </tr>
             <tr>
                 <td>M. Name</td>
-                <td>Mrs. Vijay Lakxmi</td>
+                <td></td>
             </tr>
             <tr>
                 <td>Class</td>
-                <td>BCA 4th Sem</td>
+                <td></td>
             </tr>
             <tr>
                 <td>Roll Number</td>
-                <td>1211271011119</td>
+                <td></td>
             </tr>
             <tr>
                 <td>Email</td>
-                <td>sourabh.panchal28@gmail.com</td>
+                <td></td>
             </tr>
             <tr>
                 <td>Hobbies</td>
-                <td>Coding, Hacking, GYM, Trekking</td>
+                <td></td>
             </tr>
             <tr>
                 <td>Blood Group</td>
-                <td>B+</td>
+                <td></td>
             </tr>
             <tr>
                 <td>Projects</td>
-                <td><a href="">ViPER KERNEL</a> , <a href="">ZOYA AI</a></td>
+                <td><a href=""></a> , <a href=""></a></td>
             </tr>
             <tr>
                 <td>Achievement</td>
-                <td>1st Position in College Sci Exhibition 2021/22</td>
+                <td></td>
             </tr>
             <tr>
                 <td>Certificates</td>
                 <td>
 					<ul>
-						<li><a href="">Ethical Hacking</a></li>
-						<li><a href="">Science Exhibition 2021</a></li>
-						<li><a href="">Science Exhibition 2022</a></li>
+						<li><a href=""></a></li>
+						<li><a href=""></a></li>
+						<li><a href=""></a></li>
 					</ul>
                 </td>
             </tr>
